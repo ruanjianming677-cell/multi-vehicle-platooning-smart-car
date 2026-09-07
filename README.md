@@ -4,7 +4,19 @@
 
 本人主要负责四类 PCB 的原理图与版图设计、车间通信、电磁循迹和整车联调。
 
-![三车编队项目实车](images/vehicle.jpg)
+## 实车与硬件
+
+<p align="center">
+  <img src="images/leader-car.jpg" alt="头车" width="32%">
+  <img src="images/middle-car.jpg" alt="中间车" width="32%">
+  <img src="images/tail-car.jpg" alt="尾车" width="32%">
+</p>
+
+<p align="center">
+  <img src="images/leader-mainboard-pcb.jpg" alt="头车主板 PCB 实物" width="32%">
+</p>
+
+[查看三车编队演示视频](media/platooning-demo.mp4)
 
 ## 系统组成
 
