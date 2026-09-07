@@ -1,0 +1,52 @@
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editors and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+*.bak
+*.autosave
+~$*
+
+# Altium generated/cache/output files
+History/
+Project Logs for */
+Project Outputs for */
+__Previews/
+*.PrjPcbStructure
+*.PcbDocPreview
+*.SchDocPreview
+*.REP
+*.RUL
+*.LOG
+*.DsnWrk
+*.PcbLib
+*.SchLib
+
+# Build artifacts and archives
+build/
+dist/
+Debug/
+Release/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.zip
+*.rar
+*.7z
+
+# Explicitly forbidden reference material
+*BOOM8*
+*技术报告*
+*国一报告*
+*jingsu_15cm*
