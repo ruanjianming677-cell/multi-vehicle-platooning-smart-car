@@ -4,6 +4,8 @@
 
 本人主要负责四类 PCB 的原理图与版图设计、车间通信、电磁循迹和整车联调。
 
+**GitHub 公开仓库：** [ruanjianming677-cell/multi-vehicle-platooning-smart-car](https://github.com/ruanjianming677-cell/multi-vehicle-platooning-smart-car)
+
 ## 实车与硬件
 
 <p align="center">

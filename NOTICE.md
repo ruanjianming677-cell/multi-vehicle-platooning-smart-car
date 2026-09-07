@@ -2,6 +2,8 @@
 
 本仓库用于展示本人参与的智能车多车编队项目及相关板级设计文件。公开内容来自现存原理图、PCB、项目图片和个人记录，不构成官方技术报告。
 
+公开仓库地址：[https://github.com/ruanjianming677-cell/multi-vehicle-platooning-smart-car](https://github.com/ruanjianming677-cell/multi-vehicle-platooning-smart-car)
+
 公开文件包括四类板卡的 PDF、Altium 原理图源文件和 PCB 源文件。文件和设计成果的权利仍归原权利人所有；仓库未附开源许可证，未经明确许可，不应将这些文件用于复制生产、再授权或商业发布。
 
 公开图片和部分工程文件已做隐私处理。仓库不包含未获再发布许可的参考报告、他人源码或竞赛资料。
